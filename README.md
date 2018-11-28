@@ -10,6 +10,9 @@ La vue est responsable de l’interface, ce qui recouvre essentiellement dans no
 Le rôle des contrôleurs est gestion des événements et synchronisation et de récupérer les données utilisateurs, de les filtrer et de les contrôler, de déclencher le traitement approprié (via le modèle), et finalement de déléguer la production du document de sortie à la vue(on utilise servler).</p>
 
 ## l'architecture de la couche de donnée #
+
+(![img_20181121_070531_334](https://user-images.githubusercontent.com/44121799/49146124-c62aa300-f301-11e8-9532-e6aec92dcc90.jpg)
+
 <p>
   Le moment est venu de mettre en place notre base de données pour compléter l’architecture de notre application. Tous ce qui suit utilise MySQL.
 Nous avons besoin de quelques installations complémentaires:</p>
